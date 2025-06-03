@@ -106,3 +106,13 @@ li{
     padding:40px 80px;
     border-radius: 10px;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: white;
+    background-color: #1F2937;
+    
+    
+}
