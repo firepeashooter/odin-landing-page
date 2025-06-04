@@ -91,12 +91,13 @@ li{
 
 .quote{
     font-size: 36px;
+    font-weight: 300;
     padding:0px;
     margin:0px;
 }
 
 .alert--container{
-    padding: 100px 200px;
+    padding: 100px 300px;
 }
 
 .alert{
